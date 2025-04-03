@@ -1,0 +1,9 @@
+.itembutton{
+margin-left: 80%;
+width: 50px;
+height: 30px;
+font-size: 15px;
+border-radius: 5px;
+color: white;
+background-color: rgb(233, 57, 57);
+}
